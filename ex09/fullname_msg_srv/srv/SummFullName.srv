@@ -1,0 +1,8 @@
+# Запрос
+string surname
+string name
+string patronymic
+---
+# Ответ
+string full_name
+
